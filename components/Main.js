@@ -56,7 +56,7 @@ function Main() {
                     hasProps
                     ?
                     <div className={`${styles.nowords} ${styles.result}`}>
-                        <p>Try actual word. No dey give me headache.</p>
+                        <p>Try an actual word. No dey give me headache.</p>
                     </div>
                     :
                     <div className={styles.result}>
