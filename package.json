@@ -1,0 +1,25 @@
+{
+  "name": "forthegram",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
+    "axios": "^0.24.0",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-redux": "^7.2.6",
+    "sass": "^1.45.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^2.0.2",
+    "eslint": "8.5.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
